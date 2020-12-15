@@ -13,6 +13,14 @@
     margin-bottom: 2rem;
 }
 
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+  }
+
 .page-footer {
     font-size: 0.75rem;
 }
